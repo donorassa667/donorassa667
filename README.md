@@ -84,7 +84,7 @@ Déploiement complet de l’application Spring PetClinic sur **AWS EKS**, avec :
 
 ## 📫 Contact
 
-* 📧 Email : [kalidou.sow@a2ict.com](mailto:kalidou.sow@live.com)
+* 📧 Email : [kalidousow@live.com](mailto:kalidousow@live.com)
 * 💼 LinkedIn : [Khalidou Sow](https://www.linkedin.com/in/khalidou-sow-180b7a2ba/)
 * 🧑‍💻 GitHub : [https://github.com/donorassa667](https://github.com/donorassa667)
 
